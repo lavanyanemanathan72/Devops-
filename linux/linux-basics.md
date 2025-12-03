@@ -2,7 +2,7 @@ This file contains my first project notes.
 basic linux commands
 ls
 cd
-pwd
+pwd(prints working directory)
 mkdir
 cat
 
